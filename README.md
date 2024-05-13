@@ -28,3 +28,5 @@ Step 4: **Building the Report**
       - I have also added a Matrix visual to show Total Transactions, Total Profit, Profit Margin, and Return Rate by Product_Brand.
       - Added a Column Chart to show Total Revenue every month.
       - Added a Gauge Chart to show Total Revenue against Revenue Target.
+      - Added a bookmark to capture the sales of Portland and linked the bookmark to a new page to track the analysis.
+      - Added another bookmark to reset to the original unfiltered page after all analysis is done.
