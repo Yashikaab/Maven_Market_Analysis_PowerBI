@@ -1,0 +1,13 @@
+The Original dataset is from Chris Dutton and Maven Analytics, encompassing   Product information, Customer Profiles, Stores and Returns data, Region and Calendar data, 
+Transaction data for the year (1997 and 1998) for a multi-national grocery chain with locations in Canada, Mexico, and the United States., called Maven Market.
+
+The Primary Objective of this Project is to develop an interactive Dashboard for tracking monthly business progress, providing insights into sales Performance, Product Trends.
+Here are some highlights of this project:
+1. KPIs for Monthly Transactions, Profit, Returns.
+2. In detail Matrix visual of Transactions, Profit, Returns distribution across Product brand.
+3. Sales distribution by Country and city.
+
+Here are some insights or findings I uncovered during the course of this Project:
+1. Portland hits 1000 sales in the month of December.
+2. Product Horatio has the highest return rate of 1.25%.
+3. Product Plato has the highest Profit Margin (1997 - 63.57, 1998 - 63.55%) both the Year.
