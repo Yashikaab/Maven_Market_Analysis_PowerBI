@@ -1,6 +1,5 @@
 # Maven_Market_Analysis_PowerBI
 
-This is my First PowerBI Project.
 Here i have worked on a multi-national grocery chain with locations in Canada, Mexico and the United States.
 
 The steps i have followed to build this Interactive Reports are as described below:
